@@ -9,6 +9,7 @@
 **0224001 徐詩涵**
 
 
+<<<<<<< HEAD
 ## 實作1 ##
     請仿第一章的Guitar inventory的範例，寫出一個書籍的庫存搜尋系統。
 	以ISBN為主鍵(Primary Key)，需有書名，作者，出版社，類型，售價。
@@ -24,5 +25,13 @@
 - 設計（Design）
 - 撰碼（Coding）
 - 測試（Test）
+=======
+## 實作練習1 ##
+
+- 需求
+- 設計
+- 撰碼
+- 測試
+>>>>>>> origin/master
 
 [Trello Link](https://trello.com/b/VclR3C62/ooad)
